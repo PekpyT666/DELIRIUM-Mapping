@@ -2,7 +2,7 @@
     "automappingRulesFile": "",
     "commands": [
     ],
-    "extensionsPath": "./scripts",
+    "extensionsPath": "./auto utilized files/scripts",
     "folders": [
     ],
     "objectTypesFile": "./auto utilized files/D'LIRIUM Object Types (Updated 2026-05-01).json",
