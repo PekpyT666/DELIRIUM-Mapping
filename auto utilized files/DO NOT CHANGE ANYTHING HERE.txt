@@ -1,0 +1,2 @@
+These files are managed by steam.
+Any changes to these files will be overwritten during game update or reinstall.
