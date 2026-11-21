@@ -5,7 +5,7 @@
     "extensionsPath": "./auto utilized files/scripts",
     "folders": [
     ],
-    "objectTypesFile": "./auto utilized files/D'LIRIUM Object Types.json",
+    "objectTypesFile": "./auto utilized files/Object types.json",
     "propertyTypes": [
         {
             "id": 1,
